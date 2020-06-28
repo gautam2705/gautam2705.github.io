@@ -1,8 +1,8 @@
 ---
-title: Pub Notes
-permalink: /notes/
+title: Projects
+permalink: /project/
 layout: page
-excerpt: Catatan Public agar enggak usah pusing-pusing mengingat.
+excerpt: Some of the work done by Ashish Gautam
 comments: false
 ---
 
