@@ -2,7 +2,7 @@
 title: Hello Friend!
 permalink: /about/
 layout: page
-excerpt: Hello peeps, I'm student of computer science from Banyuwangi, living in Jogjakarta. This blog for documentation about my programming journey, running on jekyll, hosting on netlify and using my own simple theme.
+excerpt: Ashish Gautam is a software developer from India having two years of experience, specialized in full-stack development, looking for an exciting opportunity now. 
 comments: false
 ---
 My name is Ashish Gautam & I work as a software developer at [Nagarro](https://www.nagarro.com/en) for about two years now. My day to day work here involves Java, Spring MVC, and Vue.js. But I like working with Python and Django as well.
