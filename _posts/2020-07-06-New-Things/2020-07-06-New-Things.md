@@ -9,11 +9,7 @@ description: My first blog post
 
 Finally I have set up a blog. And hoping to write something consistently. Plan is to be a better developer and record the journey. I always have struggled with writing in the past, and this blog will be no exception, expect plenty of grammar errors, poor word choice, and other face-palm moments. But hey, I'm writing this for myself. 
 
-<<<<<<< HEAD
 This blog is just of the *new things* I am going to do over the next 6 months. A lot of time has been spent on thinking what to do and what not to do. So it's time to just do things & wait for the outcomes.
-=======
-This blog is just of the *new things* I am going to do over the next 6 months. A lot of time has been spent on what to do and what not to do. So it's time to just do things and wait for the outcomes.
->>>>>>> 226e83f7bd54a12e532b9c91926e9a9301dfc452
 
 Most of my content will technical in nature. However, I do plan to write blog posts that are more mundane (book reviews, weekly digests of interesting reads and general reflections on life lessons).
 
