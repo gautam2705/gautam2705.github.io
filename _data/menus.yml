@@ -11,7 +11,7 @@
   external: false # set true if you using external link, see bellow
 
 - title: Resume
-  url: #
+  url: /Ashish_Gautam_Resume.pdf
   external : false
 
 - title : LinkedIn
